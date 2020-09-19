@@ -1,2 +1,2 @@
-# BUY more BITCOIN
+# BUY BITCOIN
 ![bitcoin.png](bitcoin.png)
